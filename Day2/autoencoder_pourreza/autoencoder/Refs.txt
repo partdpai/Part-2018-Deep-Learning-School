@@ -1,0 +1,2 @@
+https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf
+https://medium.com/@s.ganjoo96/autoencoders-with-pytorch-a89ed28f94a9
